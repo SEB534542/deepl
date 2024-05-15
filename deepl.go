@@ -11,7 +11,7 @@ import (
 	"net/url"
 	"strings"
 
-	httpi "github.com/bounoable/deepl/http"
+	httpi "github.com/SEB534542/deepl/http"
 )
 
 const (
