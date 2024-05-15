@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/bounoable/deepl"
+	"github.com/SEB534542/deepl"
 )
 
 func ExampleClient_Translate() {
