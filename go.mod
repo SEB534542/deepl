@@ -1,4 +1,4 @@
-module github.com/bounoable/deepl
+module github.com/SEB534542/deepl
 
 go 1.15
 
